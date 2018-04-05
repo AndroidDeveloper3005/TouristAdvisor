@@ -1,0 +1,104 @@
+{
+
+"hotel":
+
+[
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Green Land",
+    "Address": "Z1811, Bandarban",
+    "Price": "BDT1,726",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/touristadvisors-b20d6.appspot.com/o/HotelImage%2FHotelGreenLand.png?alt=media&token=291a9675-7607-40ed-ab8d-ffef84013058"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Hill Bird",
+    "Address": "Bandarban",
+    "Price": "BDT2,254",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/touristadvisors-b20d6.appspot.com/o/HotelImage%2FHotelHillBird.jpg?alt=media&token=fac9f421-c94e-4666-9662-6e4e4a894c05"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Haluaa",
+    "Address": "Bandarban",
+    "Price": "BDT2,110",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/touristadvisors-b20d6.appspot.com/o/HotelImage%2FHotelHaluaa.jpg?alt=media&token=8dd308f9-7c78-47df-acd4-f9c4a119b6cd"
+  },
+  
+  {
+    "PlaceName": "Sylhet",
+    "HotelName": "Britannia Hotel",
+    "Address": "B-95, Shahjalal Road, Ambarkhana More, Sylhet 3100",
+    "Price": "BDT2,321",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/touristadvisors-b20d6.appspot.com/o/HotelImage%2FBritanniaHotel.PNG?alt=media&token=03bed9ff-c73c-41b6-a974-8a96e2f131ea"
+  }
+],
+
+"resturents":
+
+[
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Green Land",
+    "Address": "Z1811, Bandarban",
+    "Price": "BDT1,726",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelGreenLand.png"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Hill Bird",
+    "Address": "Bandarban",
+    "Price": "BDT2,254",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelHillBird.jpg"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Haluaa",
+    "Address": "Bandarban",
+    "Price": "BDT2,110",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelHaluaa.jpg"
+  },
+  {
+    "PlaceName": "Sylhet",
+    "HotelName": "Britannia Hotel",
+    "Address": "B-95, Shahjalal Road, Ambarkhana More, Sylhet 3100",
+    "Price": "BDT2,321",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/BritanniaHotel.PNG"
+  }
+],
+
+"flights":
+
+[
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Green Land",
+    "Address": "Z1811, Bandarban",
+    "Price": "BDT1,726",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelGreenLand.png"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Hill Bird",
+    "Address": "Bandarban",
+    "Price": "BDT2,254",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelHillBird.jpg"
+  },
+  {
+    "PlaceName": "Bandarban",
+    "HotelName": "Hotel Haluaa",
+    "Address": "Bandarban",
+    "Price": "BDT2,110",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/HotelHaluaa.jpg"
+  },
+  {
+    "PlaceName": "Sylhet",
+    "HotelName": "Britannia Hotel",
+    "Address": "B-95, Shahjalal Road, Ambarkhana More, Sylhet 3100",
+    "Price": "BDT2,321",
+    "imageUrl": "gs://touristadvisors-b20d6.appspot.com/HotelImage/BritanniaHotel.PNG"
+  }
+]
+
+
+}

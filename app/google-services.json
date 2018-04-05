@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354698471386",
+    "firebase_url": "https://touristadvisors-b20d6.firebaseio.com",
+    "project_id": "touristadvisors-b20d6",
+    "storage_bucket": "touristadvisors-b20d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354698471386:android:8c5594cf16e1006d",
+        "android_client_info": {
+          "package_name": "com.himel.androiddeveloper3005.touristadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354698471386-8srvlhbr3hsiatfut6sjo13ohoj1s43c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himel.androiddeveloper3005.touristadvisor",
+            "certificate_hash": "44b0efc0043ecf343c8b4556c0bb89e021bf248e"
+          }
+        },
+        {
+          "client_id": "354698471386-50824mc02jhmhbm97660srv62751chi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHQ8MVOhf80OWBCh0kNRUqNCPkeeGb_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354698471386-50824mc02jhmhbm97660srv62751chi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
